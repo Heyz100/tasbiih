@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:rgb(112, 106, 90);
+}
+.main {
+  text-align: center;
+  margin-left: 400px;
+  margin-top: 150px;
+  font-size: 50px;
+  background: linear-gradient(rgb(142, 182, 235),rgb(71, 65, 69));
+  width: 35%;
+  height: 250px;
+  padding-top: 70px;
+  border-radius: 10px;
+}
+
+
+.main button{
+    border: none;
+    height: 30px;
+    width: 16%;
+    background-color: rgb(50, 38, 63);
+    color: black;
+    border-radius: 5px;
+}
+span {
+    color: white;
+    font-size: 60px;
+}
+
+.main button:hover{
+    background-color: rgb(23, 39, 46);
+    color: white;
+}
